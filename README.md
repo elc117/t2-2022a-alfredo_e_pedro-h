@@ -69,7 +69,7 @@ determine se é possível ele chegar ao seu destino sem se molhar.
 ![image](https://user-images.githubusercontent.com/104012810/172279222-f78ea19f-90f2-4e0a-b7db-1b7d1599be6a.png)
 
 ## EXERCÍCIO PROPOSTO
-**VAN DE JUIZES**
+**VAN DE JUÍZES**
 
 Uma van transportando cinco juízes de atletismo – F, G, H, I e J – chegou na escola. Os juízes
 vão trabalhar nas olimpíadas esportivas que acontecem durante este final de semana. Os juízes
