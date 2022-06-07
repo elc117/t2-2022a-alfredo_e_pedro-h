@@ -1,7 +1,7 @@
 # TRABALHO 2 - PARADIGMAS DA PROGOMAÇÃO - TEMA 5 - PROGRAMAÇÃO LÓGICA EM PROLOG
 ALUNOS: PEDRO HENRIQUE DA SILVA HINERASKY & ALFREDO COSSETIN NETO
 
-APRESENTAÇÃO EM POWERPOINT: [apresentação](https://onedrive.live.com/edit.aspx?action=edit&resid=A0EF336F20E00ED5!4013&ithint=file%2cpptx&action=edit&wdNewAndOpenCt=1654570509000&wdPreviousSession=50ae2427-9935-4d52-8369-983bee5baf72&wdOrigin=OFFICECOM-HWA.START.UPLOAD)
+APRESENTAÇÃO EM POWERPOINT: [apresentação]([https://onedrive.live.com/edit.aspx?action=edit&resid=A0EF336F20E00ED5!4013&ithint=file%2cpptx&action=edit&wdNewAndOpenCt=1654570509000&wdPreviousSession=50ae2427-9935-4d52-8369-983bee5baf72&wdOrigin=OFFICECOM-HWA.START.UPLOAD](https://docs.google.com/presentation/d/1tcIrKyH5E8UGpIi6GFGO2hDHQ0tDrceTytnGVLzm3IQ/edit?usp=sharing))
 ## CÓDIGO 1: PROBLEMA DA BLACK FRIDAY
 Cinco mulheres estão lado a lado aproveitando as promoções da Black Friday, cada uma com uma cor de camiseta, acompanhadas por uma pessoa,
 tem uma certa idade e compraram um produto com uma porcentagem de desconto.
